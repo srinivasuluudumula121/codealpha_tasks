@@ -117,6 +117,8 @@ Interactive website experience.
 
 ## Project Repository
 
+This project was originally documented in a dedicated UI/UX repository and is submitted here for CodeAlpha task evaluation.
+
 Full project files, documentation, wireframes, case study, and prototype:
 https://github.com/srinivasuluudumula121/FUTURE_UX_01
 
